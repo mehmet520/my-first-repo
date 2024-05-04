@@ -1,5 +1,4 @@
 # my-first-repo
-Practice acount for learning Git on Coursera Course
+Practice acount for learning Git on Coursera
+Mehmet Yilmaz
 
-# my-first-repo
-Practice acount for learning Git. Git Course Demo
